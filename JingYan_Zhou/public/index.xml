@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Apr 2024 14:26:10 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>preparation part</title>
+      <link>https://example.org/preparation_part/</link>
+      <pubDate>Sun, 21 Apr 2024 14:26:10 +0800</pubDate>
+      <guid>https://example.org/preparation_part/</guid>
+      <description>The process of making a Voron 0.2 Buying parts on the internet I went on the official website of Voron and selected the Voron 0.2. Click “configurator” and you get the BOM list of the parts you need to buy.&#xA;BOM link&#xA;Preparing for and printing the printed parts After buying all of the parts needed, I started to typeset the printed parts according to the manual. I used BambuStudio as my slicing software and printed on Bambu Lab P1S and X1C printers.</description>
+    </item>
+  </channel>
+</rss>
