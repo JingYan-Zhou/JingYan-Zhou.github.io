@@ -8,7 +8,7 @@ date = 2024-04-21T14:26:10+08:00
 I went on the official website of Voron and selected the Voron 0.2. Click “configurator” and you get the BOM list of the parts you need to buy.
 
 
-[BOM link](../content/preparation%20part/voron0.2_bom.xlsx)
+[BOM link](../content/preparation_part/voron0.2_bom.xlsx)
 
 ## **Preparing for and printing the printed parts**
 
