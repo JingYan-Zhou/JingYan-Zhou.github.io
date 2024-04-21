@@ -8,7 +8,8 @@ date = 2024-04-21T14:26:10+08:00
 I went on the official website of Voron and selected the Voron 0.2. Click “configurator” and you get the BOM list of the parts you need to buy.
 
 
-[BOM link](../content/preparation_part/voron0.2_bom.xlsx)
+[BOM link](voron0.2_bom.xlsx)  
+
 
 ## **Preparing for and printing the printed parts**
 
@@ -17,8 +18,7 @@ After buying all of the parts needed, I started to typeset the printed parts acc
    
 
 After finishing with the parameters of the printers, I started to print them. There were some failures because of a too-fast printing speed, and I had to reprint them at a speed of 50%.
-//打印失败的图片
-
+![pictures of failed printing](../pictures/17fcae10b29b5bb2d395bddfee21fde_副本.jpg)
 
 ## **Git**
 Git is a code management program that can help me with my coding. During my installation process, I met some problems, because I use a MacBook, which is different from Windows. There are six choices, such as Homebrew, Macports, Xcode, Binary Installer, Building from Source and installing git-gui. I chose Binary Installer, note that it’s version is 2.15.0, but the latest version is 2.44.0, but it can be used anyways.
