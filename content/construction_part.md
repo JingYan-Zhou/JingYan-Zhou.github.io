@@ -16,3 +16,13 @@ To now I have finished setting the PMMA board. Tomorrow, I will be starting to b
 ## **Day five**
 I finished building and putting the AB drives onto the frame today. I met a problem which is I screwed the screw too tightly so one of the screws slipped out! Next time I need to hold my strength so this will not happen again.
 ![proccess of day 5](../docs/pictures/proccess%20of%20day%205.jpg)
+## **Day six**
+Today, I found a mistake that the retailer made, he sold the wrong type of aluminum profile to me. What's more, when I was inserting the hot melt copper nut into the printed part with a soldering iron, the printed part was crushed a bit accidentally. So I just assembled many parts but did not put any parts together onto the printer.
+![proccess of day 6 1](../docs/pictures/process_of_day_6_1.jpg)
+![proccess of day 6 2](../docs/pictures/process_of_day_6_3.jpg)
+## **Day 7**
+After waiting for a week for my things to come, I finally continued building my printer. I first finished up the printing platform and put it onto the printer. Next, I cut the belt into two 1-meter sections and passed them through the machine's gears and bearings according to the instructions. And that will be alll of what I did today.
+![proccess of day 7](../docs/pictures/the_process_of_day_7.jpg)
+## **Day 8**
+Today I built the nozzle and put it onto the printing machine. I use the Bamboo X1C nozzle because it not only has a large flow but also is very cheap! You can choose your favourite nozzel as you like, there are all kinds of choices. After finishing with the nozzel, I secured the backboard of the printer. Tip, keep the nuts that were preloaded in the space before you secure the screws, or you will have a really "fun" time! I also secured the two boards, one rasberry pi and one bigtreetech, onto the frame. Also there should be a lot of lines outside by now and you can use cable ties into the holes where the printed parts already have to secure the lines, else it will be very messy.
+![proccess of day 8]()
