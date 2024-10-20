@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Firmware Configuration</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #e0f7ff; /* 浅蓝色背景 */
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #007BFF;
+            margin-top: 20px;
+        }
+        p {
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Firmware Configuration</h1>
+
+<h2>Connecting raspberry pi to my computer</h2>
+<p>Today I am going to start to do the most tedious part--connecting my raspberry pi to my computer and burning the programme into the SD card of the pi. I am choosing the operating system as other-RASPBERRY PI OS LITE (32-BIT). I am doing this according to the kiauh manual in github. After I have finished connecting it, I put the SD card into the pi, opened the battery source and tried to connect to it using the terminal in my computer. But because of Internet problems I could not connect to it successfully, so I am going to try to connect it next time when I am using a different Internet, which should be better by then.</p>
+
+<h2>Sensorless homing with X and Y axis 1</h2>
+<p>Because I only have sensors for my Z axis and E0 axis, which refers to the extruder axis, I will need to do some software and hardware installation to use sensorless homing for the other two, which are X and Y. I am using TMC2209, which has had its sensorless homing opened. For my SKR Pico with Bigtreetech, I will have to put on two line-jumping hats. The situation varies from different sensors and boards. I met a problem with different things undefined in my documentation. I didn't happen to find the solution for it today.</p>
+
+<h2>Sensorless homing with X and Y axis 2</h2>
+<p>I found which line of the documentation was wrong and crossed it out. Now I have successfully homed all of my axes.</p>
+
+<h2>Leveling my bed and managing with the screen</h2>
+<p>For today I am going to level my bed, there are three springs under my bed which holds it. I put my nozzle above each one of the springs and leveled it by using an A4 paper, it will be easier to see how high your nozzle is. Before doing this, I tried to print a voron cube but failed as the nozzle hit the bed for some parts and being too high for others. I bought the official screen for Voron0 and wanted to use it. I tried to find different configuration manuals but they were not the same as mine, I bought mine from BigTreeTech, when I went onto their official Github page, I couldn't find any reference files for it as they haven't put any yet. Because I couldn't find any files and I am not really into using it very often, I decided not to use it for this printer, maybe there can be other uses for it.</p>
+
+<h2>Trying out the printer and sealing the printer</h2>
+<p>Today I tried out my printer by letting it print a mini version, 50% size, of 3Dbenchy and Voron cube. The results are pretty good, so I decided to seal up my printer as it can both prevent ash from falling into it and reduce the noise, so I am finished with this printer!</p>
+
+</body>
+</html>
